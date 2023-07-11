@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.4.0_01 (Sun Microsystems Inc.)
+
+Name: MyApplet$3.class
+SHA1-Digest: SBJmQtbYrkBEto/7Vv4dcYQaA4E=
+
+Name: MyApplet$2.class
+SHA1-Digest: xZcC+Bk4rwP4KUGD86FUoHG8TtI=
+
+Name: MyApplet$1.class
+SHA1-Digest: SsWhakP5Hhogtd0OM2XtHc1su6I=
+
+Name: MyApplet$5.class
+SHA1-Digest: 6365yOdhqhQKNFbCRp2UCCYNdx4=
+
+Name: MyApplet.class
+SHA1-Digest: LS7zJi4Jt4djAbioms71X/qUOZw=
+
+Name: MyApplet$4.class
+SHA1-Digest: veWIhuYeIfFwj5JRbv40XVW/pag=
+

@@ -1,0 +1,6 @@
+  keystore "myKeyStore";
+grant signedBy "Aleksei"
+{ 
+permission java.io.FilePermision "<<ALL FILES>>", "read"; 
+permission java.io.FilePermision "<<ALL FILES>>", "write";
+};
